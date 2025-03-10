@@ -1,4 +1,3 @@
-```markdown
 # Redis Study Journal
 
 This journal documents my study journey through Redis. The notes below cover the fundamentals and various commands for working with Redis, including strings, lists, sets, sorted sets, HyperLogLog, hashes, transactions, Pub/Sub, scripts, geospatial operations, and benchmarking. All information presented here is based solely on what I have learned.
